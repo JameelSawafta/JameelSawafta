@@ -32,8 +32,8 @@
  
 </p>
 <p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JameelSawafta&show_icons=true&locale=en" alt="JameelSawafta" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JameelSawafta" alt="JameelSawafta" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JameelSawafta&show_icons=true&locale=en" height="350" width="440" alt="JameelSawafta" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JameelSawafta" height="350" width="440" alt="JameelSawafta" />
 </p>
 
 </p>
