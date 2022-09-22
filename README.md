@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JameelSawafta&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 * 🌍  I'm based in Tubas, Palestine
-* ✉️  You can contact me at [jameelsawafta.wlar@gmail.com](mailto:jameelsawafta.wlar@gmail.com)
+* ✉️  You can contact me at [aameelsawafta.wlar@gmail.com](mailto:jameelsawafta.wlar@gmail.com)
 * 🧠  I'm learning Flutter
 * coderhub.sa : https://profile.satr.codes/jameelsawafta/public/overview
 
