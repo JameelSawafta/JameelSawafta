@@ -6,9 +6,10 @@
 
 * 🌍  I'm based in Tubas, Palestine
 * ✉️  You can contact me at [Jameelsawafta.wlar@gmail.com](mailto:jameelsawafta.wlar@gmail.com)
-* 🧠  I'm Flutter Developer
-* ⭐  I'm learning Machine Learning
-* coderhub.sa : [JAMEEL SAWAFTA](https://profile.satr.codes/jameelsawafta/public/overview)
+* ⭐ Junior Data Scientist
+* 🧠  Flutter Developer
+
+* Kaggle : [JAMEEL SAWAFTA](https://www.kaggle.com/jameelsawafta)
 
 <h3 align="left">Languages and Tools:</h3>
 
