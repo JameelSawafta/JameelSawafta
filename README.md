@@ -6,8 +6,7 @@
 
 * 🌍  I'm based in Tubas, Palestine
 * ✉️  You can contact me at [Jameelhsawafta@gmail.com](mailto:jameelhsawafta@gmail.com)
-* ⭐ Junior Data Scientist
-* 🧠  Flutter Developer
+* ⭐ Software Engineer
 
 * Kaggle : [JAMEEL SAWAFTA](https://www.kaggle.com/jameelsawafta)
 
