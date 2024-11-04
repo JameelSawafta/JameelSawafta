@@ -13,9 +13,6 @@ I used Void Linux BTW
 ### Contact
 [Jameelhsawafta@gmail.com](mailto:jameelhsawafta@gmail.com)
 
-<a href="jameelhsawafta@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 
 <a href="https://www.linkedin.com/in/jameelsawafta">
     <img src="https://skillicons.dev/icons?i=linkedin" />
