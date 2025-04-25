@@ -6,9 +6,9 @@ I used Arch Linux BTW
 
 ### Skills
 ##### Dev
-[![My Dev Skills](https://skillicons.dev/icons?i=rust,cs,java,dart,postgres,firebase,dotnet,flutter,springboot)](https://skillicons.dev)   
+[![My Dev Skills](https://skillicons.dev/icons?i=rust,cs,java,dart,postgres,firebase,dotnet,flutter,spring)](https://skillicons.dev)   
 ##### Admin
-[![My Linux Skills](https://skillicons.dev/icons?i=linux,bash,git,github)](https://skillicons.dev)   
+[![My Linux Skills](https://skillicons.dev/icons?i=arch,linux,bash,git,github)](https://skillicons.dev)   
 
 ### Contact
 [Jameelhsawafta@gmail.com](mailto:jameelhsawafta@gmail.com)
