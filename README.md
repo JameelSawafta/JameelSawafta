@@ -2,7 +2,7 @@
 
 My name is Jameel, I am developer.   
 
-I used Void Linux BTW
+I used Arch Linux BTW
 
 ### Skills
 ##### Dev
