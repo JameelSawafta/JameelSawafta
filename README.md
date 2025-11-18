@@ -2,8 +2,6 @@
 
 My name is Jameel, I am developer.   
 
-I used Arch Linux BTW
-
 ### Skills
 ##### Dev
 [![My Dev Skills](https://skillicons.dev/icons?i=rust,cs,java,dart,postgres,firebase,dotnet,flutter,spring)](https://skillicons.dev)   
